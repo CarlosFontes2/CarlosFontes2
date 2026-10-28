@@ -21,7 +21,7 @@
 
 ###
 
-<h1 data-importer="text" align="center">👾Olá! Eu sou o Carlos Fontes!</h1>
+<h1 data-importer="text" align="center">👾Olá, eu sou o Carlos Fontes!</h1>
 
 ###
 
@@ -29,7 +29,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm Carlos, from Brazil 🇧🇷<br><br>- 🔭 I'm currently studying Systems Analysis and Development at UNIP.<br>- 🌱 I'm currently learning Java, C, SQL and Git.<br>- 💻 I'm interested in software development and technology.<br>- ⚡ In my free time, I enjoy studying programming and learning new skills.</p>
+<p data-importer="text" align="left">## 👨‍💻 Sobre mim<br><br>Olá! Sou o Carlos, do Brasil 🇧🇷<br><br>- 🎓 Atualmente curso Análise e Desenvolvimento de Sistemas na UNIP.<br>- 🌱 Estou aprendendo Java, C, SQL e Git.<br>- 💻 Tenho interesse em desenvolvimento de software e tecnologia.<br>- ⚡ No meu tempo livre, gosto de estudar programação e aprender novas habilidades.</p>
 
 ###
 
@@ -38,13 +38,13 @@
 ###
 
 <div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -62,5 +62,15 @@
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=CarlosFontes-Dev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+###
+
+<br clear="both">
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CarlosFontes-Dev/CarlosFontes-Dev/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CarlosFontes-Dev/CarlosFontes-Dev/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CarlosFontes-Dev/CarlosFontes-Dev/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
 ###
