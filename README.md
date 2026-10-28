@@ -67,10 +67,21 @@
 
 <br clear="both">
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CarlosFontes-Dev/CarlosFontes-Dev/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CarlosFontes-Dev/CarlosFontes-Dev/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CarlosFontes-Dev/CarlosFontes-Dev/pacman-output/pacman-contribution-graph.svg?game=pacman">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/CarlosFontes-Dev/CarlosFontes-Dev/output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/CarlosFontes-Dev/CarlosFontes-Dev/output/pacman-contribution-graph.svg"
+  />
+  <img
+    alt="Pac-Man no gráfico de contribuições do GitHub"
+    src="https://raw.githubusercontent.com/CarlosFontes-Dev/CarlosFontes-Dev/output/pacman-contribution-graph.svg"
+  />
 </picture>
+
 
 ###
