@@ -16,7 +16,7 @@
 ###
 
 <div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=CarlosFontes-Dev.CarlosFontes-Dev&"  />
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=CarlosFontes2.CarlosFontes2&"  />
 </div>
 
 ###
@@ -60,13 +60,12 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=CarlosFontes-Dev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=CarlosFontes2&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
 
 <br clear="both">
-
 
 <picture>
   <source
@@ -82,6 +81,5 @@
     src="https://raw.githubusercontent.com/CarlosFontes-Dev/CarlosFontes-Dev/output/pacman-contribution-graph.svg"
   />
 </picture>
-
 
 ###
